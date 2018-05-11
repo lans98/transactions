@@ -33,7 +33,7 @@ The program is very simple to use, at first it ask you to give
 a value to `X, Y, M, N`, after that it shows you both fixed
 transactions, every line has a character asociated `('a'..'i')`
 input your custom order, wait for the results (e.g. `a b c d e
-f g h i` will execute all orders secuetially)
+f g h i` will execute all orders sequentially)
 
 ## Results
 Program will fail if there any data races, or multiple access
